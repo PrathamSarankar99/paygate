@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365147748892",
+    "project_id": "paygate-d0f3d",
+    "storage_bucket": "paygate-d0f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365147748892:android:ca99be05e27458a2687dd9",
+        "android_client_info": {
+          "package_name": "sarankar.payment.paygate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365147748892-pabq5p69rm27noaqulq7vc2lo3objrt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sarankar.payment.paygate",
+            "certificate_hash": "ffb836ea66bd6109c5bfafedb4ce741937253fce"
+          }
+        },
+        {
+          "client_id": "365147748892-jsrhl8opar48m8hjo9189iuee4dee00k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtxXBENZD0GChJ1iNMWYnbqZSmu875zTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365147748892-jsrhl8opar48m8hjo9189iuee4dee00k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
